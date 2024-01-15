@@ -1,0 +1,21 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "description": "Card hecha con HTML, Sass y Gulp",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gulp dev"
+  },
+  "keywords": [
+    "Sass",
+    "Gulp"
+  ],
+  "author": "AlonsoER",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.69.7"
+  }
+}
